@@ -1,0 +1,17 @@
+F:\OOP\LaboratoryWork3\bin\Debug\net6.0-windows\LaboratoryWork3.exe
+F:\OOP\LaboratoryWork3\bin\Debug\net6.0-windows\LaboratoryWork3.deps.json
+F:\OOP\LaboratoryWork3\bin\Debug\net6.0-windows\LaboratoryWork3.runtimeconfig.json
+F:\OOP\LaboratoryWork3\bin\Debug\net6.0-windows\LaboratoryWork3.dll
+F:\OOP\LaboratoryWork3\bin\Debug\net6.0-windows\LaboratoryWork3.pdb
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.csproj.AssemblyReference.cache
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.Form1.resources
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.csproj.GenerateResource.cache
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.AssemblyInfoInputs.cache
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.AssemblyInfo.cs
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.csproj.CoreCompileInputs.cache
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.dll
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\refint\LaboratoryWork3.dll
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.pdb
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\LaboratoryWork3.genruntimeconfig.cache
+F:\OOP\LaboratoryWork3\obj\Debug\net6.0-windows\ref\LaboratoryWork3.dll
