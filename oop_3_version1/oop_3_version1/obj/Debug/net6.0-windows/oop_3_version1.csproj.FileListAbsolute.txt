@@ -1,0 +1,9 @@
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.csproj.AssemblyReference.cache
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.Form1.resources
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.csproj.GenerateResource.cache
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.AssemblyInfoInputs.cache
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.AssemblyInfo.cs
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.csproj.CoreCompileInputs.cache
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop3.Form1.resources
+C:\Users\Марта\source\repos\oop_3_version1\oop_3_version1\obj\Debug\net6.0-windows\oop_3_version1.Program.resources
